@@ -1,7 +1,8 @@
 # lb-breadboard
-LB Breadboard design ( Autodesk Eagle format )
 
-# 
+LB Breadboard design for Autodesk Eagle.
+
+![image](./image.png)
 
 # License
 
