@@ -1,6 +1,6 @@
-# lb-breadboard
+# lf-breadboard
 
-LB Breadboard design for Autodesk Eagle.
+LF Breadboard design for Autodesk Eagle.
 
 ![image](./image.png)
 
